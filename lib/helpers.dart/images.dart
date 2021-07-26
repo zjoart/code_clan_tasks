@@ -1,0 +1,1 @@
+String sen = 'asset/images/sen.png';
