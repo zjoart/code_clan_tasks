@@ -1,3 +1,4 @@
+import 'package:code_clan_second_tasks/tasks_srcs/tasks_four.dart';
 import 'package:code_clan_second_tasks/tasks_srcs/tasks_three.dart';
 import 'package:flutter/material.dart';
 
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.orange,
         ),
         debugShowCheckedModeBanner: false,
-        home: ThirdTask());
+        home: FourthTasks());
   }
 }
 
